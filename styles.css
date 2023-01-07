@@ -1,0 +1,10 @@
+h1, h3 {
+    text-align: center;
+}
+
+body {
+    background-color: rgb(53, 49, 68);
+    color: azure;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
